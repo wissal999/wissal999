@@ -10,6 +10,14 @@
 
 
 <body>
+
+    <p align="center">
+  <a href="https://github.com/Wissal999?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/wissal999?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/wissal999/">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=wissal999&label=Profile%20Views%20&color=ff0000&style=for-the-badge"/></a>
+</p>
+<div align="left">
     <h3>Hi There,<br/> I'm Wissal Touati</h2>
    <p>🔭I'm a student in IT engineering, and I love creating mobile apps.</p>
   <p>🌱I'm constantly learning to design and develop user-friendly and creative apps</p>
