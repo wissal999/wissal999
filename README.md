@@ -23,7 +23,6 @@
 ![Android](https://img.shields.io/badge/android-%23039BE5.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
 ### Backend Development
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
