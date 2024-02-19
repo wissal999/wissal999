@@ -17,9 +17,9 @@
 
 <p align="center">
 
-# <img src="https://user-images.githubusercontent.com/86270481/225363892-0d9f20e2-7886-4f40-8e44-343dc3816692.gif" width="16"> Technologies, Programming Languages, and Tools
+## <img src="https://user-images.githubusercontent.com/86270481/225363892-0d9f20e2-7886-4f40-8e44-343dc3816692.gif" width="16"> Technologies, Programming Languages, and Tools
 
-## Mobile Development
+### Mobile Development
 ![Android](https://img.shields.io/badge/android-%23039BE5.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23FA7343?style=for-the-badge&logo=swift&logoColor=white)
