@@ -10,13 +10,6 @@
 
 
 <body>
-
-    <p align="center">
-  <a href="https://github.com/Wissal999?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Wissal999?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Wissal999/">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Wissal999&label=Profile%20Views%20&color=ff0000&style=for-the-badge"/></a>
-</p>
 <div align="left">
     <h3>Hi There,<br/> I'm Wissal Touati</h2>
    <p>🔭I'm a student in IT engineering, and I love creating mobile apps.</p>
@@ -51,7 +44,17 @@
 ### Design & Prototyping
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+📩 Get in touch with me
 
+If you have any inquiries or projects that require freelancing services, or if you have exciting new opportunities, feel free to reach out to me. I am available and eager to discuss potential collaborations. You can contact me via the following:
+
+
+<!-- Social Links -->
+<div align="center">
+<a href="mailto:ouissaltouaty99@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/wissal-touati-5435461ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</div>
 
     
 </body>
