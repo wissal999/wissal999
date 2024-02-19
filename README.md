@@ -44,7 +44,7 @@
 ### Design & Prototyping
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-📩 Get in touch with me
+## 📩 Get in touch with me
 
 If you have any inquiries or projects that require freelancing services, or if you have exciting new opportunities, feel free to reach out to me. I am available and eager to discuss potential collaborations. You can contact me via the following:
 
